@@ -1,1 +1,2 @@
-<img width="1846" height="852" alt="终会懂得爱的真谛" src="https://github.com/user-attachments/assets/bcde1248-fb23-4525-96bb-dc051d38da91" />
+<img width="1846" height="282" alt="一定会理解爱的真谛" src="https://github.com/user-attachments/assets/86414c30-ca68-4fa4-a815-aa2b967a2e3a" />
+
